@@ -328,7 +328,7 @@ button:focus {
   margin-bottom: 30px;
 }
 
-.counter-section .counter .icon i {
+.counter-section .counter .icon {
   font-size: 48px;
   color: #00b4d9;
 }
@@ -480,7 +480,7 @@ button:focus {
   background: transparent;
 }
 
-.navbar-expand-lg .navbar-nav .nav-link i {
+.navbar-expand-lg .navbar-nav .nav-link {
   font-size: 28px;
   color: #00b4d9;
   vertical-align: middle;
@@ -825,7 +825,7 @@ button:focus {
   opacity: 0;
 }
 
-.overlay .icons i {
+.overlay .icons {
   height: 42px;
   width: 42px;
   line-height: 42px;
