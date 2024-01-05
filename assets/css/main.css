@@ -667,7 +667,6 @@ button:focus {
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
-    color: #00b4d9;
     outline: none;
     background: #f8f9fa;
   }
