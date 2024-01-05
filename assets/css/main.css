@@ -132,11 +132,7 @@ ul li, ol li {
   color: #fff;
 }
 
-.btn-common {
-  background-color: #00b4d9;
-  position: relative;
-  z-index: 1;
-}
+
 
 .btn-common:hover {
   color: #fff;
@@ -183,9 +179,7 @@ button:focus {
   outline: none !important;
 }
 
-.icon-close, .icon-check {
-  color: #00b4d9;
-}
+
 
 .social-icon li {
   display: inline-block;
@@ -328,10 +322,6 @@ button:focus {
   margin-bottom: 30px;
 }
 
-.counter-section .counter .icon {
-  font-size: 48px;
-  color: #00b4d9;
-}
 
 .counter-section .counter p {
   font-size: 18px;
@@ -463,14 +453,8 @@ button:focus {
   margin-bottom: 0px !important;
 }
 
-.top-nav-collapse .navbar-nav .nav-link:hover {
-  cursor: pointer;
-  color: #00b4d9 !important;
-}
 
-.top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #00b4d9 !important;
-}
+
 
 .indigo {
   background: #fff;
@@ -480,14 +464,7 @@ button:focus {
   background: transparent;
 }
 
-.navbar-expand-lg .navbar-nav .nav-link {
-  font-size: 28px;
-  color: #00b4d9;
-  vertical-align: middle;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
+
 
 .navbar-expand-lg .navbar-nav .nav-link i:hover {
   color: #21cff3;
@@ -518,9 +495,7 @@ button:focus {
   padding: 0;
 }
 
-.navbar li.active a.nav-link {
-  color: #00b4d9;
-}
+
 
 .dropdown-toggle::after {
   display: none;
@@ -600,11 +575,6 @@ button:focus {
   border-top-right-radius: 4px;
 }
 
-.dropdown .dropdown-item:focus,
-.dropdown .dropdown-item:hover,
-.dropdown .dropdown-item.active {
-  color: #00b4d9;
-}
 
 .dropdown-item.active, .dropdown-item:active {
   background: transparent;
@@ -613,14 +583,6 @@ button:focus {
 .fadeInUpMenu {
   -webkit-animation-name: fadeInUpMenu;
   animation-name: fadeInUpMenu;
-}
-
-.slicknav_btn {
-  border-color: #00b4d9;
-}
-
-.slicknav_menu .slicknav_icon-bar {
-  background: #00b4d9;
 }
 
 /* only small tablets */
@@ -766,12 +728,6 @@ button:focus {
   padding: 0px 0px 20px;
 }
 
-.controls .active {
-  color: #00b4d9 !important;
-  border-color: #00b4d9;
-  background: transparent;
-}
-
 .controls .btn {
   text-transform: uppercase;
   margin: 2px;
@@ -823,26 +779,7 @@ button:focus {
   opacity: 0;
 }
 
-.overlay .icons {
-  height: 42px;
-  width: 42px;
-  line-height: 42px;
-  color: #00b4d9;
-  left: 50%;
-  margin-left: -24px;
-  margin-top: -24px;
-  top: 50%;
-  position: absolute;
-  z-index: 2;
-  cursor: pointer;
-  text-align: center;
-  font-size: 20px;
-  -webkit-transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
-  background: #fff;
-  border-radius: 4px;
-}
+
 
 .overlay .preview {
   position: absolute;
@@ -888,16 +825,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   -o-transition: all 0.3s ease-in-out 0s;
 }
 
-.services-item .icon {
-  font-size: 42px;
-  margin-bottom: 15px;
-  text-align: center;
-  width: 48px;
-  display: block;
-  margin: 0 auto;
-  height: 48px;
-  color: #00b4d9;
-}
 
 .services-item .services-content h3 {
   margin-top: 10px;
@@ -973,21 +900,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #666;
 }
 
-.footer-right-contact .contact-icon {
-  background: #00b4d9;
-  color: #fff;
-  border-radius: 50%;
-  font-size: 20px;
-  height: 40px;
-  left: 0;
-  padding-top: 8px;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  width: 40px;
-}
+
 
 #contact {
   position: relative;
