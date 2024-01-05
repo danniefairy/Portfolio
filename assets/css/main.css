@@ -910,9 +910,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #666;
 }
 
-.services-item .services-content h3 a:hover {
-  color: #00b4d9;
-}
+
 
 .services-item .services-content p {
   line-height: 22px;
@@ -1032,18 +1030,13 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
-.footer-area .footer-text p a {
-  color: #00b4d9;
-}
 
 .footer-area .footer-text .nav-inline .nav-link {
   padding: 11px 7px;
   color: #888;
 }
 
-.footer-area .footer-text .nav-inline .nav-link:hover {
-  color: #00b4d9;
-}
+
 
 .footer-2 {
   background: #252525;
@@ -1075,9 +1068,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   font-weight: 400;
 }
 
-.footer-2 ul li a:hover {
-  color: #00b4d9;
-}
+
 
 #copyright {
   background: #333;
@@ -1093,6 +1084,4 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
-#copyright p a:hover {
-  color: #00b4d9;
-}
+
